@@ -1,2 +1,2 @@
-# bullet1
-to check if a wall is  suitable for damage
+# p5.play-boilerplate
+Boiler plate for p5.play
